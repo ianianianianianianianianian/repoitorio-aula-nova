@@ -3,7 +3,7 @@
 *Sou Ian Luiz Pires*
 
 - Sou estudante: me preparo para concursos
-- Trabalhopara custear meus estudos
+- Trabalho para custear meus estudos
 - Estou no segundo ano do ensino médio na instituição Professor Gabriel Cordeiro Martins
 - Estou estudando na Alura
 - Os códigos são desenvolvidos durante o curso
